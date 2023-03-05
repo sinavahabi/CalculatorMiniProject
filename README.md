@@ -14,3 +14,5 @@ This app includes a quit message that program will ask the user when they want t
 Also program input only accepts numbers (float or integer), and user can't enter anything but numbers on keyboard or buttons on main app window.
 Even if user tries to square root a negative number in calculator, program won't crash and it only shows an invalid
 input message. after that, previous results of app will be removed and user can keep going on operating mathematical calculations.
+
+Note: Codes documentation and description is more obvious in comments among the codes on each file.

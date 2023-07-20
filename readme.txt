@@ -1,8 +1,8 @@
 Calculator Application
 
-Features: OOP, PyQt, Error handling
-
 Languages: Python, CSS
+
+Topics: OOP, PyQt, Error handling
 
 Note: Program can be run from either "main.py" of "app.py" module.
 
